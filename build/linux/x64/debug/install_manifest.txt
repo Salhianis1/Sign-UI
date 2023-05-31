@@ -1,0 +1,17 @@
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/login_ui_simple
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/assets/lf.png
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/assets/Montserrat-Regular.ttf
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/assets/facebook.png
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/assets/Montserrat-Bold.ttf
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.smcbin
+/home/salhianis/Desktop/flutter App/login_ui_simple/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
